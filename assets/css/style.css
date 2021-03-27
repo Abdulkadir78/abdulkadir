@@ -139,8 +139,7 @@ body {
 #contact .card {
   background-color: black;
   box-shadow: 5px 5px 15px gray;
-  -webkit-transition: all 0.3s ease-in;
-  -moz-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
 }
 
 #contact .card:hover {
